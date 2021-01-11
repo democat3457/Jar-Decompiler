@@ -1,0 +1,5 @@
+/*/
+*.jar
+!jd-cli.jar
+!BON-*.jar
+!jd-gui-*.jar
